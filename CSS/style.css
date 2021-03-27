@@ -116,3 +116,68 @@ body
     top: 2500px;
 }
 
+/* esto es de la visual de Quienes Somos*/
+.cajafondoQS
+    {
+        position: relative;
+        background:#444444;
+        width: 50%;
+        height: 1500px;
+        margin: 0px;
+        padding: 0;
+        border:0;
+        top:400px;
+        left:30%;
+    } 
+
+    .qs1
+    {
+        position: relative;
+        background:#00a2ff;
+        width: 50%;
+        height: 200px;
+        margin: 0px;
+        padding: 0;
+        border:0;
+        top:10px;
+        left:30%;
+    } 
+
+    .qs2
+    {
+        position: relative;
+        background:#7cff02;
+        width: 50%;
+        height: 200px;
+        margin: 0px;
+        padding: 0;
+        border:0;
+        top:10px;
+        left:30%;
+    } 
+
+    .qs3
+    {
+        position: relative;
+        background:#fc8600;
+        width: 50%;
+        height: 200px;
+        margin: 0px;
+        padding: 0;
+        border:0;
+        top:10px;
+        left:30%;
+    } 
+
+    .qs4
+    {
+        position: relative;
+        background:#df0ca0;
+        width: 50%;
+        height: 200px;
+        margin: 0px;
+        padding: 0;
+        border:0;
+        top:10px;
+        left:30%;
+    } 
