@@ -21,9 +21,6 @@ body
     background:#444444;
     height: 300px;
     width: 100%;
-    top:0%;
-    right:0%;
-    left:0%; 
 }
 
 .menu
@@ -31,7 +28,7 @@ body
     position: absolute;
     background:#444444;
     height: 100px;
-    width: 100%;  
+    width:50%;  
     top:100px;
     padding: 30px;
     left:30%;
