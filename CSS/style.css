@@ -17,43 +17,97 @@ body
 
 .cabezera
 {
-    position: relative;
+    position: absolute;
     background:#444444;
     height: 300px;
     width: 100%;
-    padding: 10px;
-    
+    top:0%;
+    right:0%;
+    left:0%; 
 }
 
-.logo
-{
-    position: absolute;
-    background:#fd03f1;
-    height: 80%;
-    width:10%;  
-    top:20px;
-    border: 10px;
-    left:5%;
-}
 .menu
 {
     position: absolute;
-    background:#fd03f1;
-    height: 80%;
-    width:25%;  
-    top:20px;
-    left: 30%;
+    background:#444444;
+    height: 100px;
+    width: 50%;  
+    top:100px;
+    padding: 30px;
+    left:30%;
 }
 
-.login
+.fotos
+{
+    background: #444444;
+    position: absolute;
+    height: 500px;
+    width: 100%;
+    top: 400px;
+}
+
+.cuerpo
 {
     position: absolute;
-    background:#fd03f1;
-    height: 80%;
-    width:20%;  
-    top:20px;
-    border: 10px;
-    left: 60%;
+    background:#DEDED0;
+    top:900px;
+    height:1000px;
+    width: 1300px;
+    left:300px;
+}
+
+.c1cuerpo
+{
+    position: relative;
+    height:500px;
+    width: 1300px;
+    padding:20px; 
+} 
+
+.F
+{
+    position: absolute;
+    height: 400px;
+    width: 400px;
+    margin:20px;
+    left:50px;
+} 
+
+.text1
+{
+    position: absolute;
+    height: 400px;
+    width: 700px;
+    left: 500px;
+    background:#DEDED0;
+    margin:20px;
+}
+
+.c2cuerpo
+{
+    position: relative;
+    height:500px;
+    width: 1300px;
+    padding:20px; 
+} 
+
+.S
+{
+    position: absolute;
+    height: 400px;
+    width: 400px;
+    margin:20px;
+    left:50px;
+}
+
+.text2
+{
+    position: absolute;
+    height: 400px;
+    width: 700px;
+    left: 500px;
+    background:#DEDED0;
+    margin:20px;
 }
 
 .pie
@@ -64,3 +118,8 @@ body
     background:#444444;
     top: 2500px;
 }
+img{
+    display:block;
+    margin:auto;
+    }
+
